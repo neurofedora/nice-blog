@@ -93,7 +93,7 @@
 .menu ul > li > a {
 	color: #888;
 	font-weight: 400;
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 18px;
 	padding: 34px 18px 31px 18px;
 	overflow: hidden;
@@ -367,7 +367,7 @@
 /* Miscellaneous
 ====================================================================== */
 .headline {
-	font-size: 20px;
+	font-size: 22px;
 	background-color: #fff;
 	padding-right: 10px;
 	z-index: 5;
@@ -399,7 +399,7 @@
 }
 
 #titlebar h2 {
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: 500;
 	float: left;
 	width: 100%;
@@ -416,7 +416,7 @@
 ====================================*/
 #tagline {
 	margin: 60px 0 40px 0;
-	font-size: 20px;
+	font-size: 22px;
 	text-align: center;
 	font-weight: 500;
 	color: #505050;
