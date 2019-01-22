@@ -164,9 +164,7 @@
 						<ul class="social-icons-footer">
 						    {% for name,link in SOCIAL %}
 								<li>
-									<a href="{{ link }}" class="tooltip top" title="{{ name }}">
-										<i class="icon-{{ name|lower }}"></i>
-									</a>
+                  <a href="{{ link }}" class="tooltip top" title="{{ name }}">{{ name }}</a> |
 								</li>
 						    {% endfor %}
 							<li><a href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" class="tooltip top" title="RSS"><i class="icon-rss"></i></a></li>
